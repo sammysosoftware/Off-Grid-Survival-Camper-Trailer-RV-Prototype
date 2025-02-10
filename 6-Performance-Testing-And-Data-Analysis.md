@@ -80,7 +80,7 @@ The performance testing of this off-grid RV prototype is designed to **evaluate 
 ### **A. Chassis & Load Testing**
 
 - **Tandem dual-axle system with 15-inch all-terrain wheels** tested on various terrains.
-- \*\*Tested weight capacity: \*\*
+- **Tested weight capacity:**
   - **Dry Weight: \~3600 lbs.**
   - **Fully loaded at \~3900 lbs**.
 - **Frame reinforced to reduce flex under high loads**.
