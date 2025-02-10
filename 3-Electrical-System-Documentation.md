@@ -1,45 +1,66 @@
-# **Off-Grid RV Electrical System Documentation**
+# **Electrical System Overview**
 
 ## **1. Overview**
-The electrical system in this off-grid RV prototype is designed to provide **complete energy independence**, integrating **solar power generation, energy storage, AC/DC distribution, and advanced monitoring capabilities**. The system ensures efficient power usage, redundancy, and adaptability for extended off-grid living.
+The electrical system of this off-grid RV prototype is designed to **maximize energy efficiency, safety, and reliability**. It incorporates a **high-capacity solar power system, energy storage, distribution, and advanced monitoring features** to ensure seamless off-grid operation.
 
-## **2. Key Components & Specifications**
+---
 
-### **A. Solar Power Generation**
-- **Four 200W high-density solar panels** (total **800W**), capable of **30%+ more efficiency** than standard panels.
-- **80A MPPT solar charge controller** to optimize energy conversion.
+## **2. Solar Power & Energy Storage**
+### **A. Solar Array & Charge Controller**
+- **4 x 200W high-density solar panels**, offering **30% more efficiency** than standard panels.
+- **Panel Configuration**: **Connected in series to create a 48V array**, reducing current load on wiring and improving efficiency.
+- **80A MPPT charge controller** with real-time monitoring and optimal power tracking.
+- **Wiring**: **6 AWG wiring**, ensuring safe operation with minimal voltage drop.
+- **Performance:**
+  - Generates **up to 3 kW of power in full sun**.
+  - System operates at **80V, maintaining current draw under 40A**, ensuring stability and safety.
+  - Full battery recharge time from 50% depletion: **6–8 hours in peak conditions**.
 
-### **B. Energy Storage & Battery Bank**
-- **5 kWh lithium battery bank** (expandable up to **20 kWh**).
-- **Battery Management System (BMS)** to prevent overcharging and overheating.
+### **B. Battery Storage & Inverter System**
+- **5 kWh lithium-ion battery bank, expandable to 20 kWh**.
+- **2000W pure sine wave inverter**, supporting **high-efficiency AC power conversion**.
+- **Load Testing Results:**
+  - Can sustain continuous operation of refrigerator, induction cooktop, and other essentials.
+  - Peak draw recorded at **~1800W under full load**.
+  - No overload warnings or voltage drops observed.
 
-### **C. Power Distribution & Inversion**
-- **2,000W pure sine wave inverter** for powering AC circuits and electronic devices.
-- **DC-DC charger** for **passive charging** from the tow vehicle.
-- **AC-DC shore power charger** for external power input when available.
-- **Multiple DC fuse panels & AC circuit breakers** for system protection.
+---
 
-### **D. Energy Monitoring & Control**
-- **Raspberry Pi-based monitoring system** tracking energy input/output.
-- **ADS1115 modules for analog-to-digital conversion**.
-- **SCT-013-000 current sensors** to monitor individual circuit consumption.
-- **Wi-Fi connectivity** for remote data logging and analytics.
+## **3. Electrical Distribution & Load Management**
+### **A. DC Circuit Protection & Distribution**
+- **200A** – Battery
+- **200A** – Inverter
+- **30A** – Solar Panels
+- **30A** – Solar Charge Controller
+- **30A** – DC Fuse Box
+- **30A** – 24V Converter
+- **20A** – Jacks
+- **14 DC fuses** – Various DC circuits
 
-## **3. System Architecture & Wiring Layout**
-- **Solar panels → Charge controller → Battery bank → Inverter → AC/DC distribution**.
-- **Separate AC and DC circuits** to ensure efficiency and safety.
-- **All major circuits are breaker-protected**.
+### **B. AC Circuit Protection & Distribution**
+- **30A** – Input Breaker
+- **16A** – Inside Outlets
+- **16A** – Outside Outlet
+- **16A** – Kitchen Outlet, Refrigerator, and Microwave Air Fryer
+- **16A** – A/C Unit
+- **16A** – Water Heater
 
-## **4. Safety Features**
-- **Automatic low-voltage cutoff** to prevent deep discharge.
-- **Surge protection & overcurrent fuses**.
-- **Properly grounded system with dedicated safety cutoffs**.
+---
 
-## **5. System Scalability & Future Upgrades**
-- Additional **solar panels** for increased generation capacity.
-- **Smart energy management integration** with IoT-enabled controls.
-- **AI-based power optimization for efficiency tuning**.
+## **4. Safety & Compliance Measures**
+- **Grounded system with proper safety measures**.
+- **Surge protection planned for future upgrades**.
+- **All wiring and connections adhere to NEC and CSA electrical safety standards**.
+
+---
+
+## **5. Future Enhancements & Scalability**
+- **Integration with smart home automation for advanced control**.
+- **Enhanced surge protection for added equipment longevity**.
+- **Expansion capability for additional energy storage and off-grid resiliency**.
+
+---
 
 ## **6. Conclusion**
-This **electrical system** provides a reliable, scalable, and efficient solution for **off-grid energy needs**. The **combination of solar, battery storage, smart monitoring, and AC/DC hybrid power management** ensures **continuous operation** with minimal intervention.
+The **electrical system in this off-grid RV** ensures **safe, efficient, and reliable power delivery**, combining **solar energy, battery storage, and smart monitoring** to enable **long-term off-grid sustainability and energy independence**.
 
