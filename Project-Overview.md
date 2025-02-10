@@ -27,6 +27,7 @@ This project is a fully self-sustaining **off-grid RV prototype** designed for e
 - **4 to 6 inches of insulation** in ceilings and floors to regulate internal temperature.
 - **Fully insulated water tanks** for freeze protection in extreme cold.
 - **Custom-built ventilation system** to maintain air quality and temperature control.
+- **Tandem dual axles** with **15-inch all-terrain off-road wheels** for enhanced stability and durability.
 
 ### **3. Custom Interior Design & Storage Solutions**
 - **Fully enclosed 3' x 3' wet room** with a **standing shower, full-sized foot-operated toilet, sink, and storage cabinet**.
@@ -42,12 +43,18 @@ This project is a fully self-sustaining **off-grid RV prototype** designed for e
 - **Full-sized deep kitchen sink** with ample counter space.
 - **High-efficiency furnace** with **reinforced circuits and advanced heat management**.
 - **Tankless propane water heater** for continuous hot water supply.
+- **Exterior propane tank storage** accommodating **two 4-gallon tanks**.
 
 ### **5. Water Management & Plumbing System**
 - **Three fully insulated water tanks** for fresh, gray, and black water storage.
 - **Custom-built water filtration system** for clean drinking water.
 - **Pressurized water pump system** ensuring consistent flow.
 - **Exterior quick-connect hookups** for refilling and drainage.
+
+### **6. Stability & Safety Features**
+- **Five electronically controlled jacks** for easy leveling and stability.
+- **Andersen weight distribution system** for smooth towing and load balancing.
+- **Security locks for all connection points** to prevent unauthorized access and theft.
 
 ## **Market Comparison & Cost Analysis**
 - **Comparable high-end off-grid RVs** sell for **$100K - $250K**, often exceeding **6,000 - 8,000 lbs**, requiring **heavy-duty tow vehicles**.
