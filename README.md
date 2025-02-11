@@ -15,7 +15,7 @@ Beyond just electrical upgrades, this build also involved **structural modificat
 ✔ **80A MPPT Smart Solar Charge Controller** – Optimizes energy harvesting.  
 ✔ **DC-to-DC Charger** – Allows **passive charging** from the tow vehicle to the trailer battery bank.  
 ✔ **AC-to-DC Charger** – Enables **direct charging from shore power** to the battery bank.  
-✔ **12V & 24V Circuits** – Supports **fast charging, LED lighting, and system redundancy**.  
+✔ **12V, 24V & 120V Circuits** – Supports **fast charging, LED lighting, and system redundancy**.  
 ✔ **Smart Energy Monitoring** – Circuit-level tracking and real-time analytics.  
 ✔ **Shore Power/Battery Switchover** – Seamless transition between **grid power and solar storage**.  
 ✔ **AC/DC Distribution Panels** – Circuit breaker-protected, **code-compliant wiring and safety features**.  
